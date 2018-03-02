@@ -49,8 +49,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Lesson 1 - Iterations\BinaryGapTests.cs" />
-    <Compile Include="Lesson 2\CyclicRotationTests.cs" />
-    <Compile Include="Lesson 2\OddOccurrencesInArrayTests.cs" />
+    <Compile Include="Lesson 2 - Arrays\CyclicRotationTests.cs" />
+    <Compile Include="Lesson 2 - Arrays\OddOccurrencesInArrayTests.cs" />
+    <Compile Include="Lesson 3 - Time Complexity\FrogJmpTests.cs" />
+    <Compile Include="Lesson 3 - Time Complexity\TapeEquilibriumTests.cs" />
+    <Compile Include="Lesson 3 - Time Complexity\PermMissingElemTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
